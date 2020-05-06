@@ -2,6 +2,7 @@
 
 STEPS TO ATTACH IAM ROLES TO EC-2:
 1.Select services from the home page.
+![4-1](https://user-images.githubusercontent.com/61385129/81167403-c75e0600-8fb2-11ea-8ed7-3c40bc1f3b93.jpg)
 
 
 2.Select roles and create roles.
