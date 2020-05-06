@@ -11,6 +11,8 @@ STEPS TO ATTACH IAM ROLES TO EC-2:
 ![4-3](https://user-images.githubusercontent.com/61385129/81168510-c1692480-8fb4-11ea-8b56-890c684dc8d7.jpg)
 
 4.Select Amazon s3 full access.
+![4-4](https://user-images.githubusercontent.com/61385129/81168654-04c39300-8fb5-11ea-9cad-d0da2e481c7e.jpg)
+
 
 5.Give the role name of your choice.
 6.Demo created
