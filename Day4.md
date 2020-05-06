@@ -15,9 +15,11 @@ STEPS TO ATTACH IAM ROLES TO EC-2:
 
 
 5.Give the role name of your choice.
+![4-6](https://user-images.githubusercontent.com/61385129/81168721-245abb80-8fb5-11ea-840f-d5f27bc00cd4.jpg)
+
 6.Demo created
 
-*How to attach EEC-2 with IAM.*
+
 
 1.Sekect EC-2 from services.
 2.Select the instances.
