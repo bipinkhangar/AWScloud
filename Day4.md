@@ -1,7 +1,9 @@
 **IAM role**
 
 STEPS TO ATTACH IAM ROLES TO EC-2:
-!.Select services from the home page.
+1.Select services from the home page.
+
+
 2.Select roles and create roles.
 3.Select EC-2 and click on permissions.
 4.Select Amazon s3 full access.
